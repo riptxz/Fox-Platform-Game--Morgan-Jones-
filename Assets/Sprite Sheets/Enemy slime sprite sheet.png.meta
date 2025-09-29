@@ -1,0 +1,1161 @@
+fileFormatVersion: 2
+guid: b614ec8371108ef40a6fba5894928041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5516153383826774277
+    second: Enemy slime sprite sheet_0
+  - first:
+      213: 424879511930718132
+    second: Enemy slime sprite sheet_1
+  - first:
+      213: -6890775382449358635
+    second: Enemy slime sprite sheet_2
+  - first:
+      213: -6581884680521092554
+    second: Enemy slime sprite sheet_3
+  - first:
+      213: -5852838869897684734
+    second: Enemy slime sprite sheet_4
+  - first:
+      213: -5789900863836371065
+    second: Enemy slime sprite sheet_5
+  - first:
+      213: 2272474853133863555
+    second: Enemy slime sprite sheet_6
+  - first:
+      213: -6326053721538812139
+    second: Enemy slime sprite sheet_7
+  - first:
+      213: -4631612210587596329
+    second: Enemy slime sprite sheet_8
+  - first:
+      213: -1360051873848454684
+    second: Enemy slime sprite sheet_9
+  - first:
+      213: 736352036182277074
+    second: Enemy slime sprite sheet_10
+  - first:
+      213: -7120393830698947226
+    second: Enemy slime sprite sheet_11
+  - first:
+      213: 1901486994279287660
+    second: Enemy slime sprite sheet_12
+  - first:
+      213: 6177843560644283162
+    second: Enemy slime sprite sheet_13
+  - first:
+      213: -7081592677752760366
+    second: Enemy slime sprite sheet_14
+  - first:
+      213: -5206572698648131472
+    second: Enemy slime sprite sheet_15
+  - first:
+      213: -9037545020362105329
+    second: Enemy slime sprite sheet_16
+  - first:
+      213: -1628087769953227956
+    second: Enemy slime sprite sheet_17
+  - first:
+      213: 5290331338385366426
+    second: Enemy slime sprite sheet_18
+  - first:
+      213: -513447597056405454
+    second: Enemy slime sprite sheet_19
+  - first:
+      213: 278038140050022539
+    second: Enemy slime sprite sheet_20
+  - first:
+      213: -8095949103139985303
+    second: Enemy slime sprite sheet_21
+  - first:
+      213: 2232396007917678670
+    second: Enemy slime sprite sheet_22
+  - first:
+      213: 1416877731489321146
+    second: Enemy slime sprite sheet_23
+  - first:
+      213: 6906050384664091613
+    second: Enemy slime sprite sheet_24
+  - first:
+      213: 958860970572450778
+    second: Enemy slime sprite sheet_25
+  - first:
+      213: -849360134412029442
+    second: Enemy slime sprite sheet_26
+  - first:
+      213: -5111663707061411410
+    second: Enemy slime sprite sheet_27
+  - first:
+      213: -3898118788109701734
+    second: Enemy slime sprite sheet_28
+  - first:
+      213: 424537387357973281
+    second: Enemy slime sprite sheet_29
+  - first:
+      213: 3052290319441853838
+    second: Enemy slime sprite sheet_30
+  - first:
+      213: -4207456601530687329
+    second: Enemy slime sprite sheet_31
+  - first:
+      213: -7239037369474918437
+    second: Enemy slime sprite sheet_32
+  - first:
+      213: -4588586431407874350
+    second: Enemy slime sprite sheet_33
+  - first:
+      213: -4451199016020265213
+    second: Enemy slime sprite sheet_34
+  - first:
+      213: -7158764796933127973
+    second: Enemy slime sprite sheet_35
+  - first:
+      213: -4050992269636908963
+    second: Enemy slime sprite sheet_36
+  - first:
+      213: -968100662171775760
+    second: Enemy slime sprite sheet_37
+  - first:
+      213: -3501618397717580373
+    second: Enemy slime sprite sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 366
+        width: 39
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5095099d6405d8c40800000000000000
+      internalID: 5516153383826774277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 366
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c8fc3aa975e500800000000000000
+      internalID: 424879511930718132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 366
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8791e6c4c0f50a0800000000000000
+      internalID: -6890775382449358635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 366
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63274f061c278a4a0800000000000000
+      internalID: -6581884680521092554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 366
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095628be0a86cea0800000000000000
+      internalID: -5852838869897684734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 366
+        width: 37
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7874e4e27d326afa0800000000000000
+      internalID: -5789900863836371065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 366
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a4d0eb6d3798f10800000000000000
+      internalID: 2272474853133863555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 366
+        width: 39
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51724a938a75538a0800000000000000
+      internalID: -6326053721538812139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 279
+        width: 38
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9809adb3539bfb0800000000000000
+      internalID: -4631612210587596329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 279
+        width: 39
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1982fc600202de0800000000000000
+      internalID: -1360051873848454684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 279
+        width: 43
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbb74a864c083a00800000000000000
+      internalID: 736352036182277074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 279
+        width: 44
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d6e4459874f2d90800000000000000
+      internalID: -7120393830698947226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 279
+        width: 43
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bca07c850736a10800000000000000
+      internalID: 1901486994279287660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 279
+        width: 42
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b032e9cfb1cb550800000000000000
+      internalID: 6177843560644283162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 279
+        width: 40
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71a8ebaf029bd90800000000000000
+      internalID: -7081592677752760366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 279
+        width: 38
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c4d757b98eb7b0800000000000000
+      internalID: -5206572698648131472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 188
+        width: 42
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e57bbdfa0349280800000000000000
+      internalID: -9037545020362105329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 188
+        width: 45
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ba7c89cced769e0800000000000000
+      internalID: -1628087769953227956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 188
+        width: 47
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d9398a2580b6940800000000000000
+      internalID: 5290331338385366426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 188
+        width: 47
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230dcae712edfd8f0800000000000000
+      internalID: -513447597056405454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 188
+        width: 45
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8021bb173acbd300800000000000000
+      internalID: 278038140050022539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 188
+        width: 41
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968e2b35f2965af80800000000000000
+      internalID: -8095949103139985303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 188
+        width: 38
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40fee967501bfe10800000000000000
+      internalID: 2232396007917678670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 104
+        width: 36
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab015933ac2c9a310800000000000000
+      internalID: 1416877731489321146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 104
+        width: 40
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb5ada2c3837df50800000000000000
+      internalID: 6906050384664091613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 104
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb05f3f8fe8e4d00800000000000000
+      internalID: 958860970572450778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 111
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef13ef535777634f0800000000000000
+      internalID: -849360134412029442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 110
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea12951f0f8bf09b0800000000000000
+      internalID: -5111663707061411410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 108
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9de1768d9917e9c0800000000000000
+      internalID: -3898118788109701734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 104
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b2857218244e500800000000000000
+      internalID: 424537387357973281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 104
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df1b1bfd9eb5a20800000000000000
+      internalID: 3052290319441853838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 20
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9024e1538c1c95c0800000000000000
+      internalID: -4207456601530687329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd75ba4ddd5c98b90800000000000000
+      internalID: -7239037369474918437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 26
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de91c6b3f01250c0800000000000000
+      internalID: -4588586431407874350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 30
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3073b81141a2a32c0800000000000000
+      internalID: -4451199016020265213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 35
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0ca309855f6ac90800000000000000
+      internalID: -7158764796933127973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 34
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58407c6efbf7c7c0800000000000000
+      internalID: -4050992269636908963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 30
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc4e64b39d9092f0800000000000000
+      internalID: -968100662171775760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy slime sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 20
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba53211ae90c76fc0800000000000000
+      internalID: -3501618397717580373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2470b43f8f8b7264ab3d896fbe5543c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Enemy slime sprite sheet_0: 5516153383826774277
+      Enemy slime sprite sheet_1: 424879511930718132
+      Enemy slime sprite sheet_10: 736352036182277074
+      Enemy slime sprite sheet_11: -7120393830698947226
+      Enemy slime sprite sheet_12: 1901486994279287660
+      Enemy slime sprite sheet_13: 6177843560644283162
+      Enemy slime sprite sheet_14: -7081592677752760366
+      Enemy slime sprite sheet_15: -5206572698648131472
+      Enemy slime sprite sheet_16: -9037545020362105329
+      Enemy slime sprite sheet_17: -1628087769953227956
+      Enemy slime sprite sheet_18: 5290331338385366426
+      Enemy slime sprite sheet_19: -513447597056405454
+      Enemy slime sprite sheet_2: -6890775382449358635
+      Enemy slime sprite sheet_20: 278038140050022539
+      Enemy slime sprite sheet_21: -8095949103139985303
+      Enemy slime sprite sheet_22: 2232396007917678670
+      Enemy slime sprite sheet_23: 1416877731489321146
+      Enemy slime sprite sheet_24: 6906050384664091613
+      Enemy slime sprite sheet_25: 958860970572450778
+      Enemy slime sprite sheet_26: -849360134412029442
+      Enemy slime sprite sheet_27: -5111663707061411410
+      Enemy slime sprite sheet_28: -3898118788109701734
+      Enemy slime sprite sheet_29: 424537387357973281
+      Enemy slime sprite sheet_3: -6581884680521092554
+      Enemy slime sprite sheet_30: 3052290319441853838
+      Enemy slime sprite sheet_31: -4207456601530687329
+      Enemy slime sprite sheet_32: -7239037369474918437
+      Enemy slime sprite sheet_33: -4588586431407874350
+      Enemy slime sprite sheet_34: -4451199016020265213
+      Enemy slime sprite sheet_35: -7158764796933127973
+      Enemy slime sprite sheet_36: -4050992269636908963
+      Enemy slime sprite sheet_37: -968100662171775760
+      Enemy slime sprite sheet_38: -3501618397717580373
+      Enemy slime sprite sheet_4: -5852838869897684734
+      Enemy slime sprite sheet_5: -5789900863836371065
+      Enemy slime sprite sheet_6: 2272474853133863555
+      Enemy slime sprite sheet_7: -6326053721538812139
+      Enemy slime sprite sheet_8: -4631612210587596329
+      Enemy slime sprite sheet_9: -1360051873848454684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
