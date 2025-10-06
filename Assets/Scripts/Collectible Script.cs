@@ -8,6 +8,16 @@ public class CollectibleScript : MonoBehaviour
         
     }
 
+    public Animator anim;
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            Destroy(gameObject);
+        }
+    }
+
     // Update is called once per frame
     void Update()
     {

@@ -14,6 +14,8 @@ public class EnemyAiScript : MonoBehaviour
     public float maxX;
     public float minY;
     public float maxY;
+
+    public MoveSprite playerScript;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -26,6 +28,8 @@ public class EnemyAiScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        print("Enemy says: The player has " + playerScript.playerLives + "lives");
        
         transform.position = Vector2.MoveTowards(transform.position, moveSpot.position, speed * Time.deltaTime);
 
@@ -55,5 +59,8 @@ public class EnemyAiScript : MonoBehaviour
                 print("This game object has collided with Slime 2");
         }
     }
+
+
+    
    
 }

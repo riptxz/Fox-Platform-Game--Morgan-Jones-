@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MoveSprite : MonoBehaviour
 {
+    HelperScript helper;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     Rigidbody2D rb;
@@ -14,15 +16,20 @@ public class MoveSprite : MonoBehaviour
     bool isGrounded;
     bool isJumping;
     LayerMask groundLayerMask;
+    public int playerLives;
 
 
     void Start()
     {
+        helper = gameObject.AddComponent<HelperScript>();
+
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         isJumping = false;
 
         groundLayerMask = LayerMask.GetMask("Ground");
+
+        playerLives = 3;
     }
 
 
@@ -60,6 +67,8 @@ public class MoveSprite : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+
         float xvel, yvel;
         xvel = rb.linearVelocity.x;
         yvel = rb.linearVelocity.y;
